@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>普普通的生活記事本</title>
+    <link>/</link>
+    <description>Recent content on 普普通的生活記事本</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.
+About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/blog/test/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/test/</guid>
+      <description>&lt;p&gt;這裡是第一篇文章&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

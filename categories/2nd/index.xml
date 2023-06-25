@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2nd on 普普通的生活記事本</title>
+    <link>/categories/2nd/</link>
+    <description>Recent content in 2nd on 普普通的生活記事本</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/2nd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/blog/test/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/test/</guid>
+      <description>&lt;p&gt;這裡是第一篇文章&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
